@@ -1,0 +1,14 @@
+{
+  "name": "ingeniria2",
+  "version": "1.0.0",
+  "description": "proyecto de pruebas de interaccion continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Barrera",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^16.1.0"
+  }
+}
